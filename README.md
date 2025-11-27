@@ -66,3 +66,12 @@ Pressione ESC para sair em qualquer tela.
     Exclua dados quando o usuário solicitar
 
 #### Lembre-se: reconhecimento facial pode gerar erros, vieses e falsos positivos, e não deve ser usado como critério único para decisões importantes. O respeito à privacidade e ao consentimento é essencial em qualquer aplicação com biometria.
+
+## Integrantes
+| Nome                          | RM       |
+|-------------------------------|----------|
+| Erick Molina                  | 553852   |
+| Felipe Castro Salazar        | 553464   |
+| Marcelo Vieira de Melo       | 552953   |
+| Rayara Amaro Figueiredo      | 552635   |
+| Victor Rodrigues             | 554158   |
